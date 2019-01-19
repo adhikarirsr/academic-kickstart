@@ -97,7 +97,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "coffee"
+  color_theme = "forest"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -262,7 +262,7 @@ enableGitInfo = false
   
   [[params.social]]
     icon = "500px"
-    icon_pack = "fas"
+    icon_pack = "fab"
     link = "https://500px.com/sisir"
 
   # Link to a PDF of your resume/CV from the About widget.
