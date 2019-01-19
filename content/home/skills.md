@@ -26,7 +26,7 @@ weight = 7
   icon_pack = "fab"
   name = "Python"
   description = "Basic"
-
+    
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"

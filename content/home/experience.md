@@ -30,7 +30,7 @@ date_format = "January 2006"
 
   * Mathematical Modeling
   * Brownian Dynamics Simulation
-  * Kinetic Monte Carlo
+  * Kinetic Monte Carlo Simulation
   * Data Analysis
   * Machine Learning
   """
@@ -63,5 +63,19 @@ date_format = "January 2006"
   * Market and patent analysis, corporate valuation for health science startups
   * Financial Modeling  
   """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Hiram College"
+  company_url = ""
+  location = "Hiram"
+  date_start = "2008-05-01"
+  date_end = "2010-08-29"
+  description = """
+  Responsibilities include:
+
+  * Monte Carlo Simulation
+  * Data Analysis
+    """
 
 +++
