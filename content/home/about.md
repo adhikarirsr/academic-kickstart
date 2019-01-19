@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Biophysics(Ongoing)"
+  course = "PhD in Biophysics (Ongoing)"
   institution = "Case Western Reserve University"
   year = 2013
 

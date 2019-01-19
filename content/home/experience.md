@@ -29,7 +29,8 @@ date_format = "January 2006"
   Responsibilities include:
 
   * Mathematical Modeling
-  * Simulation
+  * Brownian Dynamics Simulation
+  * Kinetic Monte Carlo
   * Data Analysis
   * Machine Learning
   """
@@ -38,9 +39,29 @@ date_format = "January 2006"
   title = "Teaching Assistant"
   company = "Case Western Reserve University"
   company_url = ""
-  location = "CLeveland"
+  location = "Cleveland"
   date_start = "2012-08-27"
   date_end = "2014-12-18"
-  description = """Taught Classical Mechanics LAB"""
+  description = """
+  Responsibilities include:
+
+  * Pre-LAB lectures covering theory and experiment
+  * Grading LAB reports & exams
+  """
+
+[[experience]]
+  title = "Senior Business Development Associate"
+  company = "BioEnterprise"
+  company_url = ""
+  location = "Cleveland"
+  date_start = "2012-03-01"
+  date_end = "2013-08-15"
+  description = """
+  Responsibilities include:
+
+  * Due diligence on new business opportunities
+  * Market and patent analysis, corporate valuation for health science startups
+  * Financial Modeling  
+  """
 
 +++
