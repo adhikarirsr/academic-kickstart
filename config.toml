@@ -97,13 +97,13 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "ocean"
   # Enable users to switch between day and night mode?
   day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "playfair"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -254,6 +254,11 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fas"
     link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/shishir-adhikari-b08a3618/"
 
   [[params.social]]
     icon = "github"

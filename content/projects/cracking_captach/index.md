@@ -54,8 +54,8 @@ math = true
 ## Research
 The goal of this project is to explore deep learning by figuring out how to crack captcha.
 
-##Procedure
-Use the following python code to create Captcha:
+## Procedure
+Use the following python code to create about 50,000 Captcha :
 ```python
 import random
 import numpy as np
