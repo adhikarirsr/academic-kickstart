@@ -1,5 +1,6 @@
 +++
 title = "Conformation of a flexible chain in explicit solvent: Exact solvation potentials for short Lennard-Jones chains"
+date = 2011-07-28
 draft = false
 slug = "jimm"
 
