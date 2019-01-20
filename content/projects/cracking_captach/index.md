@@ -61,17 +61,13 @@ import random
 import numpy as np
 import string
 from captcha.image import ImageCaptcha
-import random
-import numpy as np
-import string
-from captcha.image import ImageCaptcha
 
 image = ImageCaptcha()
 clist = list(string.ascii_uppercase+string.digits)
 random.shuffle(clist)
 
 labels = []
-for j in range(10):
+for j in range(50000):
     randstr = ''
     for i in range(4):
         randstr = randstr + random.choice(clist)
