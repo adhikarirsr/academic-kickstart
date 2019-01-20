@@ -55,7 +55,7 @@ math = true
 The goal of this project is to explore deep learning by figuring out how to crack captcha.
 
 ## Procedure
-Use the following python code to create about 50,000 Captcha :
+Use the following python code to create 50,000 Captcha :
 ```python
 import random
 import numpy as np
@@ -78,5 +78,4 @@ for j in range(50000):
 with open('~/Desktop/Neural_nets/data_10/'+'labels.txt','w') as f:
   for labs in labels:
       f.write('%s\n' %labs)
-
 ```
