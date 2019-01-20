@@ -47,7 +47,7 @@ slides = "" # example-slides
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Mtb"]
+tags = ["biophysics","cadherin","modeling","actin","catch-bond"]
 
 # Links (optional).
 url_pdf = "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006399"

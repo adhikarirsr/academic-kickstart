@@ -47,7 +47,7 @@ slides = "" # example-slides
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Mtb"]
+tags = ["solvation","Lennard-Jones","Exact"]
 
 # Links (optional).
 url_pdf = "http://aip.scitation.org/doi/10.1063/1.3614500"
