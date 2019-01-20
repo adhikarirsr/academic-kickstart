@@ -56,7 +56,7 @@ The goal of this project is to play with different deep learning architecture to
 
 ## Biot-Savart Law
 
-$$ \mathbf{B \left ( r \right)} = \frac{\mu_0}{4\pi} \int_C \frac{I d\mathbf{l} \times \mathbf{r'}{|\mathbf{r'}|^3} $$
+$$ B \left ( r \right) = \frac{\mu_0}{4\pi} \int_C \frac{I dl \times r'{|r'|^3} $$
 
 
 ## Collaborators
