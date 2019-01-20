@@ -1,10 +1,10 @@
 +++
-title = "Conformation of a flexible chain in explicit solvent: Accurate solvation potentials for short Lennard-Jones chains"
+title = "Unraveling the mechanism of the cadherin-catenin-actin catch bond"
 draft = false
 slug = "jimm"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mark P. Taylor", "Yuting Ye", "Shishir R. Adhikari"]
+authors = ["Shishir R. Adhikari", "Jacob Moran", "Christopher Weddle", "Michael Hinczewski"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Mark P. Taylor", "Yuting Ye", "Shishir R. Adhikari"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The Journal of Chemical Physics"
-publication_short = "*JCP*"
+publication = "PLOS Computational Biology"
+publication_short = "*PLOS Comput. Biol.*"
 
 # Abstract and optional shortened version.
-abstract = "The conformation of a polymer chain in solution is coupled to the local structure of the surrounding solvent and can undergo large changes in response to variations in solvent density and temperature. The many-body effects of solvent on the structure of an n-mer polymer chain can be formally mapped to an exact n-body solvation potential. Here, we use a pair decomposition of this n-body potential to construct a set of two-body potentials for a Lennard-Jones (LJ) polymer chain in explicit LJ solvent. The solvation potentials are built from numerically exact results for 5-mer chains in solvent combined with an approximate asymptotic expression for the solvation potential between sites that are distant along the chain backbone. These potentials map the many-body chain-in-solvent problem to a few-body single-chain problem and can be used to study a chain of arbitrary length, thereby dramatically reducing the computational complexity of the polymer chain-in-solvent problem. We have constructed solvation potentials at a large number of state points across the LJ solvent phase diagram including the vapor, liquid, and super-critical regions. We use these solvation potentials in single-chain Monte Carlo (MC) simulations with n ≤ 800 to determine the size, intramolecular structure, and scaling behavior of chains in solvent. To assess our results, we have carried out full chain-in-solvent MC simulations (with n ≤ 100) and find that our solvation potential approach is quantitatively accurate for a wide range of solvent conditions for these chain lengths."
+abstract = "The adherens junctions between epithelial cells involve a protein complex formed by E-cadherin, β-catenin, α-catenin and F-actin. The stability of this complex was a puzzle for many years, since in vitro studies could reconstitute various stable subsets of the individual proteins, but never the entirety. The missing ingredient turned out to be mechanical tension: a recent experiment that applied physiological forces to the complex with an optical tweezer dramatically increased its lifetime, a phenomenon known as catch bonding. However, in the absence of a crystal structure for the full complex, the microscopic details of the catch bond mechanism remain mysterious. Building on structural clues that point to α-catenin as the force transducer, we present a quantitative theoretical model for how the catch bond arises, fully accounting for the experimental lifetime distributions. The underlying hypothesis is that force induces a rotational transition between two conformations of α-catenin, overcoming a significant energy barrier due to a network of salt bridges. This transition allosterically regulates the energies at the interface between α-catenin and F-actin. The model allows us to predict these energetic changes, as well as highlighting the importance of the salt bridge rotational barrier. By stabilizing one of the α-catenin states, this barrier could play a role in how the complex responds to additional in vivo binding partners like vinculin. Since significant conformational energy barriers are a common feature of other adhesion systems that exhibit catch bonds, our model can be adapted into a general theoretical framework for integrating structure and function in a variety of force-regulated protein complexes."
 abstract_short = " "
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = "" # example-slides
 tags = ["Mtb"]
 
 # Links (optional).
-url_pdf = "http://aip.scitation.org/doi/10.1063/1.4935952"
+url_pdf = "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006399"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -61,10 +61,10 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/26627969"}]
+url_custom = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/30118477"},{name="Biorxiv", url="http://biorxiv.org/lookup/doi/10.1101/306761"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1063/1.4935952"
+doi = "10.1101/306761"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
