@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Non-Equilibrium Statistical Mechanics",
-    "Biophysics",
+    "Mathematical Modeling",
+    "Simulations",
     "Artificial Intelligence"
   ]
 
@@ -35,4 +36,4 @@ weight = 5
 
 # Biography
 
-I am currently pursuing PhD in theoretical Biophysics. My research interests include mathematical modeling of biological processes, the physics and mathematics of machine learning, and theoretical underpinnings of non equilibrium statistical physics.
+I am currently pursuing PhD in theoretical Biophysics. My research interests include mathematical modeling of biological processes,theoretical underpinnings of non equilibrium statistical physics and the physics of machine learning.
