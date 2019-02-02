@@ -46,7 +46,7 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
 
-  * Pre-LAB lectures covering theory and experiment
+  * Pre-LAB lecture covering theory and experiment
   * Grading LAB reports & exams
   """
 
@@ -61,8 +61,8 @@ date_format = "January 2006"
   Responsibilities include:
 
   * Due diligence on new business opportunities
-  * Market & patent analysis,
-  * Corporate valuation for Biotech startups
+  * Market & patent analysis
+  * Business valuation for Biotech startups
   * Financial Modeling  
   """
 
