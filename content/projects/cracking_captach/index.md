@@ -52,9 +52,7 @@ math = true
 
 +++
 ## Research
-The goal of this project is to explore deep learning by figuring out how to crack captcha.
-
-## Status: Testing
+We have been mostly exploring theoretical aspects of machine learning. This project grew out of our need to get our hands dirty. So, the goal of this project is to explore deep learning by figuring out how to crack captcha.
 
 ## Tools
 1. Mathematica: For machine learning
