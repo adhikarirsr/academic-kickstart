@@ -9,8 +9,8 @@ title = "Cracking Captcha using Deep Learning"
 summary = ""
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "deep-learning", "captcha","python","mathematica"]
+# Example: `tags = ["machine-learning", "deep-learning",]`
+tags = ["machine-learning", "deep-learning", "captcha","python","mathematica", "julia"]
 categories = ["Resources"] # still works in v3.1?
 
 # Optional external URL for project (replaces project detail page).
