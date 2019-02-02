@@ -54,6 +54,13 @@ math = true
 ## Research
 The goal of this project is to explore deep learning by figuring out how to crack captcha.
 
+## Status: Testing
+
+## Tools
+1. Mathematica: For machine learning
+2. Python: For generating data
+3. Julia: Future goal is to use Julia for ML implementation
+
 ## Procedure
 Use the following python code to create 50,000 Captcha :
 ```python
