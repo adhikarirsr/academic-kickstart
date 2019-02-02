@@ -28,7 +28,7 @@ weight = 5
   year = 2013
 
 [[education.courses]]
-  course = "BA in Physics"
+  course = "BA in Physics (Minor: Computer Sci, Mathematics)"
   institution = "Hiram College"
   year = 2011
 
