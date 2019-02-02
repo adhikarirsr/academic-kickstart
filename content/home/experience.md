@@ -29,10 +29,11 @@ date_format = "January 2006"
   Responsibilities include:
 
   * Mathematical Modeling
-  * Brownian Dynamics Simulation
-  * Kinetic Monte Carlo Simulation
-  * Data Analysis
-  * Machine Learning
+  * Brownian Dynamics Simulation using C
+  * Kinetic Monte Carlo Simulation using C & Mathematica
+  * Data Analysis using Mathematica
+  * Machine Learning using Mathematica
+  * Optimization using Mathematica & NLopt
   """
 
 [[experience]]
@@ -74,7 +75,7 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
 
-  * Monte Carlo Simulation
+  * Monte Carlo Simulation using C
   * Data Analysis
     """
 

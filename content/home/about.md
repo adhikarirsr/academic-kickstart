@@ -13,7 +13,7 @@ weight = 5
     "Non-Equilibrium Statistical Mechanics",
     "Mathematical Modeling",
     "Simulations",
-    "Artificial Intelligence"
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
