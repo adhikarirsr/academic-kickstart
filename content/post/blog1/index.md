@@ -1,7 +1,7 @@
 +++
 title = "Why?"
-date = 2019-01-19T01:38:30-05:00
-draft = false
+date = 2019-02-01T01:38:30-05:00
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shishir Adhikari"]
@@ -29,4 +29,6 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-As a PhD, we are exposed to lots of new ideas and concepts. This website is my attempt to keep track of the those ideas and concepts.  
+As a PhD student, we are exposed to lots of new ideas and concepts. The posts on websites are my attempt to keep track of the those ideas and concepts. I started a blog couple of years ago but failed to maintain it. This is my second go at it.
+
+I setup this website using framework with
