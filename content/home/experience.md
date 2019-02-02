@@ -61,7 +61,8 @@ date_format = "January 2006"
   Responsibilities include:
 
   * Due diligence on new business opportunities
-  * Market and patent analysis, corporate valuation for health science startups
+  * Market & patent analysis,
+  * Corporate valuation for Biotech startups
   * Financial Modeling  
   """
 
@@ -76,7 +77,7 @@ date_format = "January 2006"
   Responsibilities include:
 
   * Monte Carlo Simulation using C
-  * Data Analysis
+  * Data Analysis using Kaliedagraph
     """
 
 +++
