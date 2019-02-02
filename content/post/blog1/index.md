@@ -1,7 +1,7 @@
 +++
 title = "Why?"
 date = 2019-01-19T01:38:30-05:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shishir Adhikari"]
