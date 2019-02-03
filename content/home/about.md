@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-I am currently pursuing PhD in theoretical Biophysics. My research interests include mathematical modeling of biological processes,theoretical underpinnings of non equilibrium statistical physics and the physics of machine learning.
+I am currently pursuing Ph.D. in theoretical Biophysics. My research interests include mathematical modeling of biological processes, stochastic processes, theoretical underpinnings of non equilibrium statistical physics and the physics of machine learning. Furthermore, I am interested in the application of machine learning to solve real-world problems.
