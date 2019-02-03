@@ -58,11 +58,11 @@ Experimental & Ongoing
 As an academician, we have been mostly exploring theoretical aspects of machine learning. This project grew out of our need to get our hands dirty. So, the idea is to explore deep learning by figuring out how to crack captcha. We will play with different DNN models. Here, the idea is not to come up with an original method but shamefully use previously tested models. Hopefully, while doing so we learn how to code up the model in different platforms and develop a work flow for machine learning projects.
 
 ## Tools
-For scientific computing, we have have been using $\textit{Mathematica}$. So, firstly we will $\textit{Mathematica}$’s inbuilt Neural Network functions and tools.
+For scientific computing, we have have been using $Mathematica$. So, firstly we will $Mathematica$’s inbuilt Neural Network functions and tools.
 
-We have used $\textit{Python}$ for data generation. We would also like to use $\textit{Python}$’s ML packages like: $\textit{PyTroch, Keras, Fastai}$.
+We have used $Python$ for data generation. We would also like to use $Python$’s ML packages like: $PyTorch, Keras, Fastai$.
 
-Lastly, we would like to use $\textit{Julia}$’s ML packages like: $\textit{Flux, KNet}$.
+Lastly, we would like to use $Julia$’s ML packages like: $Flux, KNet$.
 
 
 ## Procedure
