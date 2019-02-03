@@ -65,3 +65,7 @@ $$ B \left ( r \right) = \frac{\mu_0}{4\pi} \int_C \frac{I dl \times r'}{|r'|^3}
 ## Collaborators
 #### Case Western Reserve University
 * Mingdong Fan
+
+{{% alert note %}}
+Note: This post is incomplete. This project needs more thought.
+{{% /alert %}}

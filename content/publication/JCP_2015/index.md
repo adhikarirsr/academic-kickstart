@@ -81,7 +81,7 @@ math = true
   focal_point = "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 
 # [header]
 # image = "psp-actino.png"

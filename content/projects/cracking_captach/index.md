@@ -93,3 +93,7 @@ with open('~/Desktop/Neural_nets/data_10/'+'labels.txt','w') as f:
 ```
 
 * We are in a process of writing and training a model like: VGG16
+
+{{% alert note %}}
+Note: This post is incomplete...
+{{% /alert %}}

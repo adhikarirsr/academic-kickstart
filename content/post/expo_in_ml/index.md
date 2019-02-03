@@ -48,4 +48,6 @@ I haven’t gone through the whole lecture series. However, I watched quite a fe
 One of the hidden gems of youtube [Machine learning lecture series](https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists)
 . I have watched a couple of this lecture and they are brilliant. I would highly recommend his lecture on Decision Tree.
 
+{{% alert note %}}
 This is by no means a complete list. I went through many more resources. I will add those and the ones that I am currently going through soon.
+{{% /alert %}}
