@@ -37,17 +37,15 @@ Fortunately that summer, I also got an opportunity to mentor a high school stude
 In the mean that I came across some other very useful resources. Here’s a list of some of those resources:
 ### Support Vector Machine
 
-  * One of the most gentle and clear introductions to SVM by Patrick Winston: {{< youtube PwhiWxHK8o >}}
-    
-  * Interesting and very helpful SVM recitation session by Jessica Noss:
-    https://www.youtube.com/watch?v=ik7E7r2a1h8
+  * One of the most gentle and clear introductions to SVM by [Patrick Winston] (https://www.youtube.com/watch?v=_PwhiWxHK8o&t)
+
+  * Interesting and very helpful SVM recitation session by [Jessica Noss] (https://www.youtube.com/watch?v=ik7E7r2a1h8)
 
 ###  Machine Learning lectures by Nando Freitas
-I haven’t gone through the whole lecture series. However, I watched quite a few lectures by him and they are some of the clearest introductions those topics on ML that I found on youtube:
-https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
+I haven’t gone through the whole lecture series. However, I watched quite a few lectures by him and they are some of the clearest [introductions those topics on ML](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) that I found on youtube.
 
 ###  Machine Learning lectures by Ali Ghodsi
-One of the hidden gems of youtube Machine learning lecture series. I have watched a couple of this lecture and they are brilliant. I would highly recommend his lecture on Decision Tree.
-https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists
+One of the hidden gems of youtube [Machine learning lecture series](https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists)
+. I have watched a couple of this lecture and they are brilliant. I would highly recommend his lecture on Decision Tree.
 
 This list is by no means complete list. I went through many more resources. I will add those and the ones that I am currently going through soon.
