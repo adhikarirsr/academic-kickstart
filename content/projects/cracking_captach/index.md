@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2019-01-19
+date = 2019-02-01
 
 # Project title.
 title = "Cracking Captcha using Deep Learning"
@@ -48,14 +48,16 @@ math = true
   focal_point = "Smart"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 
 +++
+##Status
+Experimental & Ongoing
+
 ## Research
 As an academician, we have been mostly exploring theoretical aspects of machine learning. This project grew out of our need to get our hands dirty. So, the idea is to explore deep learning by figuring out how to crack captcha. We will play with different DNN models. Here, the idea is not to come up with an original method but shamefully use previously tested models. Hopefully, while doing so we learn how to code up the model in different platforms and develop a work flow for machine learning projects.
 
 ## Tools
-
 For scientific computing, we have have been using $\textit{Mathematica}$. So, firstly we will $\textit{Mathematica}$’s inbuilt Neural Network functions and tools.
 
 We have used $\textit{Python}$ for data generation. We would also like to use $\textit{Python}$’s ML packages like: $\textit{PyTroch, Keras, Fastai}$.

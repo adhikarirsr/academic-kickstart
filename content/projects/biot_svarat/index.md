@@ -51,8 +51,11 @@ math = true
   preview_only = false
 
 +++
+##Status
+Experimental & Brainstorming Phase
+
 ## Research
-The goal of this project is to play with different deep learning architecture to see if we  neural net can come up with a function that can model Biot-Savart law.
+The goal of this project is to play with different deep learning architecture to see if a neural net can come up with a function that can model Biot-Savart law.
 
 ## Biot-Savart Law
 
