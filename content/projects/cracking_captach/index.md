@@ -64,7 +64,8 @@ Lastly, we would like to use $\textit{Julia}$’s ML packages like: $\textit{Flu
 
 
 ## Procedure
-1. Use the following python code to create 50,000 Captcha :
+* Using the following python code to create 50,000 Captcha:
+
 ```python
 import random
 import numpy as np
@@ -88,4 +89,5 @@ with open('~/Desktop/Neural_nets/data_10/'+'labels.txt','w') as f:
   for labs in labels:
       f.write('%s\n' %labs)
 ```
-2. We are in a process of writing and training a model like $\textbf{VGG16}$
+
+* We are in a process of writing and training a model like: VGG16
