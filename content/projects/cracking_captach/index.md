@@ -52,15 +52,19 @@ math = true
 
 +++
 ## Research
-We have been mostly exploring theoretical aspects of machine learning. This project grew out of our need to get our hands dirty. So, the goal of this project is to explore deep learning by figuring out how to crack captcha.
+As an academician, we have been mostly exploring theoretical aspects of machine learning. This project grew out of our need to get our hands dirty. So, the idea is to explore deep learning by figuring out how to crack captcha. We will play with different DNN models. Here, the idea is not to come up with an original method but shamefully use previously tested models. Hopefully, while doing so we learn how to code up the model in different platforms and develop a work flow for machine learning projects.
 
 ## Tools
-1. Mathematica: For machine learning
-2. Python: For generating data
-3. Julia: Future goal is to use Julia for ML implementation
+
+For scientific computing, we have have been using $\textit{Mathematica}$. So, firstly we will $\textit{Mathematica}$’s inbuilt Neural Network functions and tools.
+
+We have used $\textit{Python}$ for data generation. We would also like to use $\textit{Python}$’s ML packages like: $\textit{PyTroch, Keras, Fastai}$.
+
+Lastly, we would like to use $\textit{Julia}$’s ML packages like: $\textit{Flux, KNet}$.
+
 
 ## Procedure
-Use the following python code to create 50,000 Captcha :
+* Use the following python code to create 50,000 Captcha :
 ```python
 import random
 import numpy as np
@@ -84,3 +88,4 @@ with open('~/Desktop/Neural_nets/data_10/'+'labels.txt','w') as f:
   for labs in labels:
       f.write('%s\n' %labs)
 ```
+* We are in a process of writing and training a model like $\textit{VGG16}$
