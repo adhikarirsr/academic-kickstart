@@ -37,7 +37,7 @@ This is my attempt to keep track of interesting science related websites and blo
 ### **Websites**
 1. **John Carlo Baez**
   * http://math.ucr.edu/home/baez/ \\
-    This webpage has many interesting topics. I particularly find his exposition to information geometry (http://math.ucr.edu/home/baez/information/) very useful.
+    This webpage has many interesting topics. I have particularly gone through his exposition to information geometry (http://math.ucr.edu/home/baez/information/), which is engaging and interesting.
   * http://math.ucr.edu/home/baez/stoch_stable.pdf \\
     Quantum Techniques for Stochastic Mechanics. A book, I hope to go through one day.
     \\
@@ -51,7 +51,7 @@ This is my attempt to keep track of interesting science related websites and blo
 3. **Machine Learning**
   * https://arxiv.org/pdf/1803.08823.pdf
   * http://www.offconvex.org/
-
-    {{% alert note %}}
-    This is by no means a complete list. I will keeping adding.
-    {{% /alert %}}
+  
+{{% alert note %}}
+This is by no means a complete list. I will keeping adding.
+{{% /alert %}}
