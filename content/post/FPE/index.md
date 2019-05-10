@@ -1,7 +1,7 @@
 +++
-title = "Thermodynamics, ESM, and NESM"
-date = 2019-04-02
-draft = false
+title = "Fokker Planck Equation"
+date = 2019-05-06
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shishir Adhikari"]
