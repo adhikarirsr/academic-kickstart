@@ -29,5 +29,4 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-The picture below summarizes very basic idea behind Thermodynamics, Equilibrium Statistical Mechanics, and Nonequilibrium Statistical Mechanics.
-{{< figure src="idea.jpg" title="Basic Idea based on Elements of Nonequilibrium Statistical Mechanics book by V. Balakrishnan" >}}
+I have used Fokker Planck Equation (FPE) to model
