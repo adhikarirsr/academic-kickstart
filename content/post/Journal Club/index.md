@@ -1,7 +1,7 @@
 +++
 title = "Journal Club"
 date = 2019-02-01
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shishir Adhikari"]
