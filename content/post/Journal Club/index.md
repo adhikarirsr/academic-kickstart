@@ -31,27 +31,27 @@ categories = []
 +++
 Collections of papers that I would like to go over.
 
-1. Stochastic Thermodynamics
+1. **Stochastic Thermodynamics**
   * Arcsine laws in stochastic thermodynamics (Barato et al.)\\
     https://arxiv.org/pdf/1712.00795.pdf
   * Thermodynamic cost of external control(Barato et al.)\\
     https://arxiv.org/abs/1704.03480
 
-2. Ecology
+2. **Ecology**
   * Constrained optimization as ecological dynamics with applications to    random quadratic programming in high dimensions (Mehta et al.)\\
   https://arxiv.org/pdf/1809.04221.pdf
 
-3. Protein
+3. **Protein**
   * The strength of protein-protein interactions controls the information capacity and dynamical response of signaling networks (Wang et. al)\\
   https://arxiv.org/abs/1811.05371
 
-4. Reinforcement Learning for Physics Problems
+4. **Reinforcement Learning for Physics Problems**
   * Reinforcement Learning in Different Phases of Quantum Control (Bukov et al.)\\
   https://arxiv.org/pdf/1705.00565.pdf
   * Reinforcement learning for autonomous preparation of Floquet-engineered states:
 Inverting the quantum Kapitza  (Bukov) \\
 https://arxiv.org/pdf/1808.08910.pdf
 
-5. Speed Limit
+5. **Speed Limit**
   * Geometric Speed Limit of Accessible Many-Body State Preparation (Bukov et al.)\\
   https://arxiv.org/pdf/1804.05399.pdf
