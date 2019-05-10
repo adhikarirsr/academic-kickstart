@@ -1,6 +1,6 @@
 +++
 title = "Thermodynamics, ESM, and NESM"
-date = 2019-02-01T01:38:30-05:00
+#date = 2019-02-01T01:38:30-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -29,4 +29,5 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-{{< figure src="idea.jpg" title="Basic Idea" >}}
+The picture below summarizes very basic idea behind Thermodynamics, Equilibrium Statistical Mechanics, and Nonequilibrium Statistical Mechanics.
+{{< figure src="idea.jpg" title="Basic Idea based on Elements of Nonequilibrium Statistical Mechanics book by V. Balakrishnan" >}}

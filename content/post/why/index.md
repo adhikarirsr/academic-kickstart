@@ -1,6 +1,6 @@
 +++
 title = "Why?"
-date = 2019-02-01T01:38:30-05:00
+#date = 2019-02-01T01:38:30-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
