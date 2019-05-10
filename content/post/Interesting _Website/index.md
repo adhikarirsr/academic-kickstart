@@ -39,7 +39,7 @@ This is my attempt to keep track of interesting science related websites and blo
   * http://math.ucr.edu/home/baez/ \\
     This webpage has many interesting topics. I particularly find his exposition to information geometry (http://math.ucr.edu/home/baez/information/) very useful.
   * http://math.ucr.edu/home/baez/stoch_stable.pdf \\
-    Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through one day.
+    Quantum Techniques for Stochastic Mechanics. A book, I hope to go through one day.
     \\
 2. **Gavin E. Crooks**
     * http://threeplusone.com/gec/
