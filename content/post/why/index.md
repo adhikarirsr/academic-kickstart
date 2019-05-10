@@ -29,6 +29,6 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-As a Ph.D. student, we are exposed to lots of new ideas and concepts. The posts on websites are my attempt to keep track of those ideas and concepts. I started a blog a couple of years ago but failed to maintain it. This is my second go at it.
+As a Ph.D. student, we are exposed to lots of new ideas and concepts. The posts on this website are my attempt to keep track of those ideas and concepts. I started a blog a couple of years ago but failed to maintain it. This is my second go at it. Better late than never.
 
 I set up this website using Hugo framework with the academic theme. I have high hopes from this set up as it natively supports $\LaTeX$.
