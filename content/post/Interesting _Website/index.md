@@ -45,3 +45,7 @@ This is my attempt to keep track of interesting science related websites and blo
     * http://threeplusone.com/on_information.pdf (On Measures of Entropy and Infromation)
     * http://threeplusone.com/Crooks-FisherInfo.pdf (Fisher Information and Statistical Mechanics)
     * http://threeplusone.com/Crooks-Whither.pdf (Whither Time’s Arrow?)
+
+    {{% alert note %}}
+    This is by no means a complete list. I will keeping adding.
+    {{% /alert %}}
