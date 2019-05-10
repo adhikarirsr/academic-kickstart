@@ -29,7 +29,7 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-Collections of papers that I would like to go over.\\
+Collections of papers that I would like to go over.
 
 1. Stochastic Thermodynamics
   * Arcsine laws in stochastic thermodynamics (Barato et al.)\\
