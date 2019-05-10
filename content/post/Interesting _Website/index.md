@@ -36,10 +36,9 @@ This is  a place holder for all interesting blogs and websites.
 ### Websites
 1. John Carlo Baez
   * http://math.ucr.edu/home/baez/
-    WARNING: You Will Lose Track of Time!
     This webpage has many interesting topics. I particularly find his exposition to information geometry (http://math.ucr.edu/home/baez/information/) very useful.
   * http://math.ucr.edu/home/baez/stoch_stable.pdf
-    Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through.
+    Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through one day.
 2. Gavin E. Crooks
     * http://threeplusone.com/gec/
     * http://threeplusone.com/FieldGuide.pdf (Field Guide to Continuous Probability Distributions)
