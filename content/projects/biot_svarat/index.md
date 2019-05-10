@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 date = 2019-01-19
-
+draft = true
 # Project title.
 title = "Modeling Biot–Savart law using Machine Learning"
 
