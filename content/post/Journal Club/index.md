@@ -36,6 +36,7 @@ Collections of papers that I would like to go over.
     https://arxiv.org/pdf/1712.00795.pdf
   * Thermodynamic cost of external control(Barato et al.)\\
     https://arxiv.org/abs/1704.03480
+
 2. Ecology
   * Constrained optimization as ecological dynamics with applications to    random quadratic programming in high dimensions (Mehta et al.)\\
   https://arxiv.org/pdf/1809.04221.pdf
