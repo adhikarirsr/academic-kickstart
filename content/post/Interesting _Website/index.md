@@ -32,6 +32,7 @@ categories = []
 This is my attempt to keep track of interesting science related websites and blogs
 ### Blogs
 1. https://johncarlosbaez.wordpress.com/
+2. https://mgbukov.github.io/
 
 ### Websites
 1. John Carlo Baez
@@ -39,12 +40,17 @@ This is my attempt to keep track of interesting science related websites and blo
     This webpage has many interesting topics. I particularly find his exposition to information geometry (http://math.ucr.edu/home/baez/information/) very useful.
   * http://math.ucr.edu/home/baez/stoch_stable.pdf \\
     Quantum Techniques for Stochastic Mechanics. A monogram, I hope to go through one day.
+    \\
 2. Gavin E. Crooks
     * http://threeplusone.com/gec/
     * http://threeplusone.com/FieldGuide.pdf (Field Guide to Continuous Probability Distributions)
     * http://threeplusone.com/on_information.pdf (On Measures of Entropy and Infromation)
     * http://threeplusone.com/Crooks-FisherInfo.pdf (Fisher Information and Statistical Mechanics)
     * http://threeplusone.com/Crooks-Whither.pdf (Whither Time’s Arrow?)
+
+3. Machine Learning
+  * https://arxiv.org/pdf/1803.08823.pdf
+  * http://www.offconvex.org/
 
     {{% alert note %}}
     This is by no means a complete list. I will keeping adding.
