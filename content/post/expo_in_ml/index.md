@@ -1,6 +1,6 @@
 +++
 title = "Exploration in ML"
-#date = 2019-02-03T01:38:30-05:00
+date = 2019-02-03
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
